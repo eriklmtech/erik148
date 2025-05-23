@@ -5,7 +5,18 @@
 </p>
 
 ---
+### 🚧 Atualmente trabalhando em:
 
+Estou desenvolvendo o site de uma **hamburgueria local**, com foco em uma experiência moderna e funcional para clientes e administradores.
+
+O projeto inclui:
+
+- 🧑‍💼 **Painel administrativo** para gerenciamento de pedidos em tempo real  
+- 🍔 **Tela para visitantes** com interface chamativa e intuitiva  
+- 💳 **Integração de pagamentos online** direto pelo site  
+- 📦 **Fluxo completo do pedido**, do cliente até o painel do administrador
+
+  ---
 ### 🛠 Tecnologias, Ferramentas e Bibliotecas
 
 <div align="center">
