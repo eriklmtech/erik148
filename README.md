@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Erik 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em criar aplicações modernas, responsivas e funcionais.
+ Desenvolvedor Full Stack
 </p>
 
 ---
